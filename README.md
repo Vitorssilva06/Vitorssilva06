@@ -1,4 +1,4 @@
-### Muito bom dia boa tarde e boa noite !! seja bem vindo ao meu perfil >:D
+### Muito bom dia boa tarde ou boa noite !! seja bem vindo ao meu perfil >:D
 
 Meu nome é Vitor Soares Silva
 
