@@ -1,16 +1,14 @@
-### Hi there 👋
+### Muito bom dia boa tarde e boa noite !! seja bem vindo ao meu perfil >:D
 
-<!--
-**Vitorssilva06/Vitorssilva06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitor Soares Silva
 
-Here are some ideas to get you started:
+- Eu estou aprendendo usando a Alura
+- Estou aprendendo e desenvolvendo na linguagem JavaScript
+- Vou ultilizar esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pode entrar em contato comigo por aqui 📧
+
+vitorsoaress187@gmail.com
+
+
+![](https://media1.tenor.com/m/b6C6GIuUo1IAAAAC/hollow-knight-reading-map-pixel-art.gif)
