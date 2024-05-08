@@ -2,7 +2,7 @@
 
 Meu nome é Vitor Soares Silva
 
-- Eu estou aprendendo usando a Alura
+- Eu estou aprendendo usando a [Alura](https://www.alura.com.br)
 - Estou aprendendo e desenvolvendo na linguagem JavaScript
 - Vou ultilizar esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
