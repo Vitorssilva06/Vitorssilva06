@@ -1,4 +1,4 @@
-### Muito bom dia boa tarde ou boa noite !! seja bem vindo ao meu perfil >:D
+### Muito bom dia boa tarde ou boa noite !! seja bem vindo ao meu perfil >:D <3
 
 Meu nome é Vitor Soares Silva
 
@@ -6,7 +6,7 @@ Meu nome é Vitor Soares Silva
 - Estou aprendendo e desenvolvendo na linguagem JavaScript
 - Vou ultilizar esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
-### Pode entrar em contato comigo por aqui 📧
+### Pode entrar em contato comigo por aqui!! 📧
 
 vitorsoaress187@gmail.com
 
